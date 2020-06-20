@@ -1,9 +1,9 @@
 const config = {
-  siteTitle: 'rdpian.com',
+  siteTitle: 'rdpian.my.id',
   siteTitleShort: 'Pian Firman',
-  siteTitleAlt: 'Pian FIrman',
+  siteTitleAlt: 'Pian Firman',
   siteLogo: '/logos/linux.png',
-  siteUrl: 'https://www.rdpian.com',
+  siteUrl: 'https://rdpian.my.id',
   repo: 'https://github.com/rdpian',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
