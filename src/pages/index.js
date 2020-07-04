@@ -27,7 +27,8 @@ export default class Index extends Component {
               <p>
                 Seorang Guru SD yang sedang belajar IT dan menjalani hidup dengan bahagia. 
                 Suka <Link to="/blog">Menulis, </Link> 
-                Rajin Menabung dan Tidak Sombong.
+                Rajin Menabung dan Tidak Sombong. 
+                <a href="https://wa.me/62895346309624?text=saya%20mau%20pesan%20aplikasi">Hubungi Saya</a>
               </p>
               <Link to="/me/" className="view-all">
                 Selengkapnya tentang Pian
