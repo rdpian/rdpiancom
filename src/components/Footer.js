@@ -12,11 +12,7 @@ export default class Footer extends Component {
       <footer className="footer container">
         <div>
           <a href="https://gatsbyjs.org" target="_blank" rel="noopener noreferrer">
-<<<<<<< HEAD
             Build With Gatsby Js 
-=======
-            Gatsby Js Theme by Tania Rascia
->>>>>>> 123261c57c9c08fd4bbaf6a26183fc7307bd0d0b
           </a>
         </div>
         <div>
