@@ -36,12 +36,12 @@ export default class Index extends Component {
             <div className="newsletter-section">
               <img src={tania} className="newsletter-avatar" alt="Tania" />
               <div>
-                <h3>Berlangganan Email</h3>
+                <h3>Hubungi Saya</h3>
                 <p>
-                  Silakan klik berlangganan dibawah ini untuk mengikuti tulisan saya!
+                  Silakan klik dibawah ini untuk menghubungi saya!
                 </p>
-                <a className="button" href="https://rdpian.substack.com">
-                  Berlangganan
+                <a className="button" href="https://wa.me/62895346309624?text=saya%20mau%20pesan%20aplikasi">
+                  Whatsapp
                 </a>
               </div>
             </div>
