@@ -31,6 +31,10 @@ const config = {
       name: 'Contact',
       link: '/contact/',
     },
+    {
+      name: 'Portofolio',
+      link: '/portofolio/',
+    },
   ],
   themeColor: '#3F80FF', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff',
