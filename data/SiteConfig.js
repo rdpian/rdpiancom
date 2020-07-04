@@ -31,10 +31,13 @@ const config = {
       name: 'Contact',
       link: '/contact/',
     },
+<<<<<<< HEAD
     {
       name: 'Portofolio',
       link: '/portofolio/',
     },
+=======
+>>>>>>> 123261c57c9c08fd4bbaf6a26183fc7307bd0d0b
   ],
   themeColor: '#3F80FF', // Used for setting manifest and progress theme colors.
   backgroundColor: '#ffffff',

@@ -18,7 +18,11 @@ export default class Index extends Component {
 
     return (
       <Layout>
+<<<<<<< HEAD
         <Helmet title={`${config.siteTitle} – Jasa Website`} />
+=======
+        <Helmet title={`${config.siteTitle} – Ordinary Man`} />
+>>>>>>> 123261c57c9c08fd4bbaf6a26183fc7307bd0d0b
         <SEO />
         <div className="container">
           <div className="lead">
