@@ -7,9 +7,12 @@ template: page
 [PESAN SEKARANG, HARGA PROMO](https://wa.me/62895346309624?text=saya%20mau%20pesan%20aplikasi)
 
 ### Aplikasi yang pernah dibuat
-- Website [SD Plus Islam Terpadu Bhaskara Subang](http://sdpit-bhaskara.sch.id)
-- [Sistem Informasi Koperasi Mitra Winaya Bojong Purwakarta](http://mitrawinayabojong.my.id/)
-- [Media Informasi Nasional](http://min.co.id)
+- Website [SD Plus Islam Terpadu Bhaskara Subang](http://sdpit-bhaskara.sch.id) http://sdpit-bhaskara.sch.id
+- [Sistem Informasi Koperasi Mitra Winaya Bojong Purwakarta](http://mitrawinayabojong.my.id/) http://mitrawinayabojong.my.id/
+- [Media Informasi Nasional](http://min.co.id) http://min.co.id
+- LKP Padepokan Kembang Nusantara - http://lkpkembangnusantara.com
+- Yayasan Persaudaraan Kembang - http://yayasanpersaudaraankembang.com
+- http://kicau-mania.com
 
 ### Anda ingin membuat website dengan harga terjangkau ? semisal
 
