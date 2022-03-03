@@ -83,7 +83,7 @@ export default class PostTemplate extends Component {
           <div className="post" dangerouslySetInnerHTML={{ __html: postNode.html }} />
         </article>
         <section id="comments">
-        <h4><a href="">Load comments</a></h4>
+        <h3>Komentar</h3>
         <div dangerouslySetInnerHTML={{ __html: 
           `<script async src="https://utteranc.es/client.js"
             repo="rdpian/rdpiancom"
